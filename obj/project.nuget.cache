@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5nVQwGmVKfcgmf7OHUxOuHNe8cb2Y09xJROyPIHM+Sw4gk0wQMXDI6D8u/IveWaRwZMiG1CgkmyPrlPTMrVKg==",
+  "success": true,
+  "projectFilePath": "/Users/adrianbailador/Desktop/Projects Adri/SemanticSearchApp/SemanticSearchApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/adrianbailador/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.data.sqlite/9.0.7/microsoft.data.sqlite.9.0.7.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.data.sqlite.core/9.0.7/microsoft.data.sqlite.core.9.0.7.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.extensions.configuration/2.1.0/microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.0/microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.extensions.configuration.binder/2.1.0/microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.extensions.http/2.1.0/microsoft.extensions.http.2.1.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.extensions.logging/2.1.0/microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.0/microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.extensions.options/2.1.0/microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/microsoft.extensions.primitives/2.1.0/microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/openai/1.7.0/openai.1.7.0.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.10/sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/sqlitepclraw.core/2.1.10/sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.10/sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.10/sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/adrianbailador/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "SemanticSearchApp depends on OpenAI (>= 1.6.4) but OpenAI 1.6.4 was not found. An approximate best match of OpenAI 1.7.0 was resolved.",
+      "libraryId": "OpenAI",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
